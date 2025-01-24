@@ -1,0 +1,10 @@
+{
+    "name": "Carry_the_Planet",
+    "author": "TheAlarm117571",
+    "version_number": "1.1.1",
+    "website_url": "https://github.com/TheAlarm117571/-VotV-Carry-the-planet",
+    "description": "allow infinite inventory.",
+    "dependencies": [
+      "Gatohost-VoidMod-2.1.0"
+    ]
+  }
